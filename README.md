@@ -24,21 +24,26 @@
 2. Configure o arquivo .env
 
     DB_CONNECTION=mysql
+   
     DB_HOST=127.0.0.1
+   
     DB_PORT=3306
+   
     DB_DATABASE=cliente
+   
     DB_USERNAME=root
+   
     DB_PASSWORD=
 
-3. Execute as migrations
+4. Execute as migrations
 
     php artisan migrate
 
-4. Crie o link simbólico para as imagens
+5. Crie o link simbólico para as imagens
 
     php artisan storage:link
 
-5. Acesse o projeto
+6. Acesse o projeto
 
     http://cliente.test
 
