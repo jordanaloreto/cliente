@@ -44,5 +44,6 @@ http://cliente.test
 
 # Imagens do projeto
 
-![alt text](<Captura de tela 2026-06-13 134432.png>)
-![alt text](image.png)
+<img width="1346" height="671" alt="Captura de tela 2026-06-13 134432" src="https://github.com/user-attachments/assets/1ba691bd-327f-4594-b931-12bffecfbb73" />
+<img width="1348" height="674" alt="Captura de tela 2026-06-13 134447" src="https://github.com/user-attachments/assets/4370289c-4e87-4405-9706-8a69d318b18b" />
+
